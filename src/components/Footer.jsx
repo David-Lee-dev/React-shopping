@@ -1,3 +1,7 @@
 export default function Footer() {
-  return <div>Footer</div>;
+  return (
+    <footer>
+      <p>© 2021 David Lee.</p>
+    </footer>
+  );
 }
